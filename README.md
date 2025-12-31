@@ -18,5 +18,3 @@ prepare for **Data Analyst, Data Science, and Machine Learning roles**.
 
 ---
 
-## 📂 Repository Structure
-
